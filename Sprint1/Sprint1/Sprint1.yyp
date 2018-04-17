@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "1f74fed3-bcae-4c98-91a4-7377ba70999f",
+            "Value": {
+                "id": "65d70609-e9fe-4a5b-af0d-fbd74a3a6dd0",
+                "resourcePath": "objects\\Player_Camera\\Player_Camera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "21acd3db-1ed8-472d-8117-db757217301d",
             "Value": {
                 "id": "0fa58d2b-0862-435e-9487-cfb504a88264",
@@ -124,14 +132,6 @@
                 "id": "3e1bb205-fe99-47c6-aaed-9f035b387765",
                 "resourcePath": "views\\7c3cd71f-6299-48f9-954e-9d5f94825169.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "b429d274-7a3a-44ac-a430-2f10f1f6516a",
-            "Value": {
-                "id": "126eef77-1059-4337-be02-e9507005f888",
-                "resourcePath": "objects\\Player_Camera\\Player_Camera.yy",
-                "resourceType": "GMObject"
             }
         },
         {
