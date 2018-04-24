@@ -1,21 +1,21 @@
 {
-    "id": "ff5feeae-c521-4ef1-98a7-b3321723cf16",
+    "id": "d6bc5d8b-0fcd-48af-b9cd-4d88cd548551",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Beacons_Object",
+    "name": "Trail_Object",
     "eventList": [
         {
-            "id": "8d00ab6d-ac7d-43b6-bba2-2ce540dae079",
+            "id": "692aae27-f104-43e7-baba-ba30d6380e2c",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
-            "collisionObjectId": "d9f4f1f1-f450-4f18-8f93-7699c459f318",
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 4,
-            "m_owner": "ff5feeae-c521-4ef1-98a7-b3321723cf16"
+            "eventtype": 3,
+            "m_owner": "d6bc5d8b-0fcd-48af-b9cd-4d88cd548551"
         }
     ],
-    "maskSpriteId": "00000000-0000-0000-0000-000000000000",
+    "maskSpriteId": "f7a3cc7f-ce9b-4948-8530-996eda6037c0",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
     "persistent": false,
@@ -33,6 +33,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "5a3b5850-ecd5-4b19-a4bd-bc8354b63fbd",
+    "spriteId": "f7a3cc7f-ce9b-4948-8530-996eda6037c0",
     "visible": true
 }
