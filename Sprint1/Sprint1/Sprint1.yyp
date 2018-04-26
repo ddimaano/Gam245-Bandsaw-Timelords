@@ -129,7 +129,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "scripts\/script1\/script1.yy",
+                "resourcePath": "scripts\/scr_menu\/scr_menu.yy",
                 "resourceType": "GMScript"
             }
         },
@@ -169,6 +169,25 @@
                 ],
                 "resourcePath": "views\/2b63a3a3-12c3-4ea2-a6f6-1469ad2d2455.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "36fd3bcc-ab84-4661-9364-42c1cc246d9b",
+            "Value": {
+                "id": "fad4a488-05f8-434e-9d47-55b6b452522f",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sprites\/Menu_sprite\/Menu_sprite.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -305,9 +324,9 @@
             }
         },
         {
-            "Key": "7d389b55-ba8e-468a-bc5a-06cc1d84184c",
+            "Key": "82b7812d-86f4-4758-b2fa-f6c02f8d1594",
             "Value": {
-                "id": "732a1273-2b12-49cb-af7c-672176959725",
+                "id": "f68136c6-5550-487f-b4eb-6446f3000782",
                 "modelName": "GMResourceInfo",
                 "mvc": "1.0",
                 "configDeltaFiles": [
@@ -319,8 +338,8 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "objects\/box_obj\/box_obj.yy",
-                "resourceType": "GMObject"
+                "resourcePath": "fonts\/fnt_options\/fnt_options.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -568,6 +587,25 @@
                 ],
                 "resourcePath": "sprites\/Background_sprite\/Background_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "eddd4048-e461-4394-a692-9e63c5ecfa18",
+            "Value": {
+                "id": "959fc7c0-7f1d-4c5d-8cda-f62fb3f1ce74",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/object3\/object3.yy",
+                "resourceType": "GMObject"
             }
         },
         {
