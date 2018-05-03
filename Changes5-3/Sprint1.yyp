@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
+            "Value": {
+                "id": "9a221224-4df1-4cbe-aeb9-227ca16392c8",
+                "resourcePath": "options\\linux\\options_linux.yy",
+                "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
             "Key": "ac27e3f6-9645-4b30-8a16-b9f9da77b7ed",
             "Value": {
                 "id": "28e92d44-476f-45be-aa00-edc6cb827b85",
@@ -364,6 +372,14 @@
                 "id": "d303a12e-d48d-42a0-8aeb-96987be8e2f5",
                 "resourcePath": "sprites\\Background_sprite\\Background_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
+            "Value": {
+                "id": "78aadf80-f0fb-4b47-915f-2e63b511bed4",
+                "resourcePath": "options\\mac\\options_mac.yy",
+                "resourceType": "GMMacOptions"
             }
         },
         {
