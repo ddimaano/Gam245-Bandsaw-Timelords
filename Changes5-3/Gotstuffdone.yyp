@@ -447,6 +447,14 @@
             }
         },
         {
+            "Key": "bf70506f-1c4a-4fa7-8ef8-592e1d1efb1d",
+            "Value": {
+                "id": "ff2398f2-7d74-4922-87e5-e5e6d69d6977",
+                "resourcePath": "objects\\Variable_holder\\Variable_holder.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c1daaaca-9c4b-42ac-8ae8-6b8877fc9c63",
             "Value": {
                 "id": "ddf3b4ed-26bc-480e-ba52-50461e8ecd82",
