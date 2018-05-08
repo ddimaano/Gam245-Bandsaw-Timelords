@@ -1,6 +1,6 @@
 
 {
-    "name": "Puzzle_room",
+    "name": "Dipper",
     "id": "dcfc029c-a306-4539-9a34-946bba5136a0",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,

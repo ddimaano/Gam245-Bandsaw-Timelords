@@ -111,6 +111,30 @@
             }
         },
         {
+            "Key": "342b6458-f45b-486e-98b1-70a884cc26a4",
+            "Value": {
+                "id": "64bc553e-2ea6-4b2a-9531-a3ecf069e38d",
+                "resourcePath": "rooms\\Sagitarrius\\Sagitarrius.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "37e715da-16d6-4125-9f08-2471f4251551",
+            "Value": {
+                "id": "24409c0c-39b7-47a8-9d37-dd90c7e64472",
+                "resourcePath": "rooms\\Capricorn\\Capricorn.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "405a26de-75f6-488e-9a01-3d5f17deb75e",
+            "Value": {
+                "id": "5f6a195c-9e3e-4a96-b8c0-6ddbd0ee3045",
+                "resourcePath": "rooms\\Libra\\Libra.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "40c43249-85d5-43a0-b1aa-e4b83b0e4708",
             "Value": {
                 "id": "285c614a-64b1-479d-a9eb-3400b170a7c3",
@@ -167,11 +191,27 @@
             }
         },
         {
+            "Key": "593dacf4-5148-4fb0-9dcc-19c82c2ead10",
+            "Value": {
+                "id": "d0f5acba-0fcc-4d9b-96b5-5bb8005b5f6a",
+                "resourcePath": "objects\\satelliteCapricorn\\satelliteCapricorn.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "5a3b5850-ecd5-4b19-a4bd-bc8354b63fbd",
             "Value": {
                 "id": "7e0f4360-5748-4b4d-a366-79a14948f8cf",
                 "resourcePath": "sprites\\Star_sprite\\Star_sprite.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5ae0b587-c1b6-4357-a960-91d8a78bb9a2",
+            "Value": {
+                "id": "b1f8941f-dcab-453d-b561-6198b77c0044",
+                "resourcePath": "objects\\satelliteSagittarius\\satelliteSagittarius.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -335,6 +375,14 @@
             }
         },
         {
+            "Key": "b5037c18-deae-480b-904b-bf96f375ef1f",
+            "Value": {
+                "id": "eb62bc12-104b-4db8-b37b-a952444fd0c6",
+                "resourcePath": "objects\\satelliteLibra\\satelliteLibra.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b699e3e7-0fe9-4d2c-bda2-617ed64c2f72",
             "Value": {
                 "id": "aed8c51a-fd2d-48e5-be60-90c11a0eb21e",
@@ -418,7 +466,7 @@
             "Key": "dcfc029c-a306-4539-9a34-946bba5136a0",
             "Value": {
                 "id": "b9dcb751-d709-423e-939c-7711fb55f5c8",
-                "resourcePath": "rooms\\Puzzle_room\\Puzzle_room.yy",
+                "resourcePath": "rooms\\Dipper\\Dipper.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -474,7 +522,7 @@
             "Key": "f9a5988f-6278-434c-b631-7821f87c4221",
             "Value": {
                 "id": "6be441f2-3934-412c-8db1-0bca6baeca39",
-                "resourcePath": "objects\\Satellite\\Satellite.yy",
+                "resourcePath": "objects\\satelliteDipper\\satelliteDipper.yy",
                 "resourceType": "GMObject"
             }
         },
