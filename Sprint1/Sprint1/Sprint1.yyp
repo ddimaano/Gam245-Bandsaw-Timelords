@@ -58,6 +58,25 @@
             }
         },
         {
+            "Key": "0dc8d721-b358-4223-8d1a-8f8409500722",
+            "Value": {
+                "id": "80297d39-ba20-4678-b6e3-5f438e5ac131",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/mcontroller_obj\/mcontroller_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0e39106c-db90-488c-844e-58bfb72b1602",
             "Value": {
                 "id": "66fa1120-efae-4531-b7f7-9809c1729258",
@@ -381,6 +400,25 @@
             }
         },
         {
+            "Key": "7d7ab1f9-1ebe-4dca-a72f-927baf76cc40",
+            "Value": {
+                "id": "742c4921-6a5f-4f4b-a86c-58463dfab1c4",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/snd_music\/snd_music.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "82b7812d-86f4-4758-b2fa-f6c02f8d1594",
             "Value": {
                 "id": "f68136c6-5550-487f-b4eb-6446f3000782",
@@ -511,6 +549,25 @@
                 ],
                 "resourcePath": "options\/linux\/options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "b1572576-cea0-407b-822a-b4a93aed2f95",
+            "Value": {
+                "id": "a06ff5a0-40e7-471e-aafa-63a189274d94",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/SaveState_holder\/SaveState_holder.yy",
+                "resourceType": "GMObject"
             }
         },
         {
