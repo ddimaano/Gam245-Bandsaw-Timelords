@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "766c1057-fafc-46b4-80bb-98fa6831ebde",
+            "Value": {
+                "id": "473ccaba-dc52-4b6b-9ef5-6442b6065f59",
+                "resourcePath": "objects\\Satellite\\Satellite.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "7c3cd71f-6299-48f9-954e-9d5f94825169",
             "Value": {
                 "id": "3e1bb205-fe99-47c6-aaed-9f035b387765",
@@ -474,7 +482,7 @@
             "Key": "f9a5988f-6278-434c-b631-7821f87c4221",
             "Value": {
                 "id": "6be441f2-3934-412c-8db1-0bca6baeca39",
-                "resourcePath": "objects\\Satellite\\Satellite.yy",
+                "resourcePath": "objects\\SatelliteDipper\\SatelliteDipper.yy",
                 "resourceType": "GMObject"
             }
         },

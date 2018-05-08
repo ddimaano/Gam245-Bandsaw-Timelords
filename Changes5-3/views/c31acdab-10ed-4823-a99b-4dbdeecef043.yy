@@ -6,7 +6,8 @@
     "children": [
         "ff5feeae-c521-4ef1-98a7-b3321723cf16",
         "4fc208ce-19f8-4ee2-ba75-7e56cc52376b",
-        "f9a5988f-6278-434c-b631-7821f87c4221"
+        "f9a5988f-6278-434c-b631-7821f87c4221",
+        "766c1057-fafc-46b4-80bb-98fa6831ebde"
     ],
     "filterType": "GMObject",
     "folderName": "World Objects",
