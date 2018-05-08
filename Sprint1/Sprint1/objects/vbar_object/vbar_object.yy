@@ -5,7 +5,7 @@
     "name": "vbar_object",
     "eventList": [
         {
-            "id": "2f4d15cb-c964-436e-8413-165961be4b46",
+            "id": "22037ebe-9ab1-426a-9311-99a6350a2ba7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
@@ -15,7 +15,7 @@
             "m_owner": "012f67f1-a31d-4c57-b238-7ef0f51927e1"
         },
         {
-            "id": "336090fa-f11f-4890-aa33-beff1965c83c",
+            "id": "b0affc0c-0500-477d-b242-2191a5653975",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
