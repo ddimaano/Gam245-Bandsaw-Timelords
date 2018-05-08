@@ -2,7 +2,7 @@
     "id": "ac27e3f6-9645-4b30-8a16-b9f9da77b7ed",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "ReD_Trail_spr",
+    "name": "Green_Trail_spr",
     "For3D": false,
     "HTile": false,
     "VTile": false,
