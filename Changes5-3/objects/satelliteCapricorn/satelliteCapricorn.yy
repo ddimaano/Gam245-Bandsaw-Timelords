@@ -1,38 +1,38 @@
 {
-    "id": "f9a5988f-6278-434c-b631-7821f87c4221",
+    "id": "593dacf4-5148-4fb0-9dcc-19c82c2ead10",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "satelliteDipper",
+    "name": "satelliteCapricorn",
     "eventList": [
         {
-            "id": "5e008b83-9048-4b0d-9df8-f06065029663",
+            "id": "56b2e7ce-9858-4ff0-a68c-6f72c9daadcf",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "f9a5988f-6278-434c-b631-7821f87c4221"
+            "m_owner": "593dacf4-5148-4fb0-9dcc-19c82c2ead10"
         },
         {
-            "id": "41272100-b700-49f1-9c4f-e19fe256c00f",
+            "id": "2c7350cf-82d6-4e6d-98ee-30616468b7f7",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "d9f4f1f1-f450-4f18-8f93-7699c459f318",
             "enumb": 0,
             "eventtype": 4,
-            "m_owner": "f9a5988f-6278-434c-b631-7821f87c4221"
+            "m_owner": "593dacf4-5148-4fb0-9dcc-19c82c2ead10"
         },
         {
-            "id": "4db63928-99f4-4cf8-8fbf-975daa644e49",
+            "id": "78e94529-e9ad-4fdc-9d04-2e40f27cf992",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 3,
-            "m_owner": "f9a5988f-6278-434c-b631-7821f87c4221"
+            "m_owner": "593dacf4-5148-4fb0-9dcc-19c82c2ead10"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
