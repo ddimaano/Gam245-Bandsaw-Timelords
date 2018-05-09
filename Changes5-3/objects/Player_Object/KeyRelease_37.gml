@@ -1,1 +1,1 @@
-object_set_sprite(0,Player_Sprite3);
+//object_set_sprite(0,Player_Sprite3);
