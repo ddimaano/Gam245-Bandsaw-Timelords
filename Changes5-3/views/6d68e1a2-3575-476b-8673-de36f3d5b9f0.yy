@@ -8,7 +8,8 @@
         "78934931-5d01-4a05-95fd-8d7450d4ff04",
         "c33dbacd-d4a6-46bf-b9a2-17a69c693578",
         "012f67f1-a31d-4c57-b238-7ef0f51927e1",
-        "8d233a54-362b-470a-9173-9ee155043fc3"
+        "8d233a54-362b-470a-9173-9ee155043fc3",
+        "0dc8d721-b358-4223-8d1a-8f8409500722"
     ],
     "filterType": "GMObject",
     "folderName": "Menu Objects",
