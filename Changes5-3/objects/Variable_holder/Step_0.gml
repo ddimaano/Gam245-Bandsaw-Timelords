@@ -1,0 +1,13 @@
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 0E346600
+/// @DnDArgument : "code" "if counter = 20{$(13_10)	//puzzle is complete$(13_10)	puzzle = true;$(13_10)	room_goto(room0);$(13_10)	$(13_10)}$(13_10)else{$(13_10)	puzzle = false;$(13_10)}"
+if counter = 20{
+	//puzzle is complete
+	puzzle = true;
+	room_goto(room0);
+	
+}
+else{
+	puzzle = false;
+}

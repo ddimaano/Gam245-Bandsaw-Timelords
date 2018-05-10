@@ -29,7 +29,7 @@ with(inst)
 	image_angle = Player_Object.image_angle;
 }
 }
-Player_Object.speed = 2;
+Player_Object.speed -= .05;
 }
 
 
