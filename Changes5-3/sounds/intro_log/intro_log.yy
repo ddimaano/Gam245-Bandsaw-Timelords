@@ -1,8 +1,8 @@
 {
-    "id": "025c232e-7001-46e1-bdcd-d50cd7944ebe",
+    "id": "dfb3e466-255c-4895-a1f9-d1f9c129f4db",
     "modelName": "GMSound",
     "mvc": "1.0",
-    "name": "turn1",
+    "name": "intro_log",
     "audioGroupGuid": "7b2c4976-1e09-44e5-8256-c527145e03bb",
     "bitDepth": 1,
     "bitRate": 128,
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.71
+    "volume": 1
 }
