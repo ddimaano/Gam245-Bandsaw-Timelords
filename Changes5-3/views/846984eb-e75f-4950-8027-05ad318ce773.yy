@@ -9,8 +9,7 @@
         "6012dbd9-8fcd-476d-be17-50a77131c910",
         "f2e1f8e6-9958-454e-b019-5235d6e11db4",
         "22314fc4-5ab6-408a-be26-6eb569fd87c7",
-        "6d9c2028-402f-4205-81c7-2aea51831ee3",
-        "eb3675cb-f102-49a3-aa41-4dfd730c4440"
+        "6d9c2028-402f-4205-81c7-2aea51831ee3"
     ],
     "filterType": "GMSprite",
     "folderName": "Menu Sprites",
