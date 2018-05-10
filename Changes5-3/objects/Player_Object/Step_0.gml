@@ -32,4 +32,7 @@ with(inst)
 Player_Object.speed = 2;
 }
 
-
+if(audio_sound_get_track_position(intro_log) >= len && audio_stop_sound(intro_log))
+	{
+		audio_sound_gain(snd_music, global.musicVolume, 2000)
+	}

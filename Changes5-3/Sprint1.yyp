@@ -295,6 +295,25 @@
             }
         },
         {
+            "Key": "73c5d993-e96e-4897-88e7-4b94e5986bf5",
+            "Value": {
+                "id": "3f94fca1-08c5-4c30-9001-f237ce5165d0",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/thruster\/thruster.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "78934931-5d01-4a05-95fd-8d7450d4ff04",
             "Value": {
                 "id": "6fc3e1fe-62b7-45bf-adf5-4ac4b5dbdcaa",
@@ -540,6 +559,25 @@
                 "id": "b9dcb751-d709-423e-939c-7711fb55f5c8",
                 "resourcePath": "rooms\/Puzzle_room\/Puzzle_room.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dfb3e466-255c-4895-a1f9-d1f9c129f4db",
+            "Value": {
+                "id": "1e66fea1-6b1d-4f71-92f4-0096d25bed01",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "sounds\/intro_log\/intro_log.yy",
+                "resourceType": "GMSound"
             }
         },
         {
