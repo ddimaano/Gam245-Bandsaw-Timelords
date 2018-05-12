@@ -13,6 +13,6 @@ if (!l39ED46C8_0)
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
 /// @DnDHash : 306E01AD
-/// @DnDArgument : "angle" "-5"
+/// @DnDArgument : "angle" "-4"
 /// @DnDArgument : "angle_relative" "1"
-image_angle += -5;
+image_angle += -4;

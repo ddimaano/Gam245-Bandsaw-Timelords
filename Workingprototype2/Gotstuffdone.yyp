@@ -31,11 +31,35 @@
     },
     "resources": [
         {
+            "Key": "0132a5c4-b6bb-4712-b0d8-11007045eb82",
+            "Value": {
+                "id": "fb375c72-0f54-4449-b41e-0ca042a9c810",
+                "resourcePath": "rooms\\cons5_Challenge1\\cons5_Challenge1.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "0200a0a8-6d74-419d-8db7-1d49de8a35e7",
             "Value": {
                 "id": "de709944-2166-43cf-8412-754af25bbb12",
                 "resourcePath": "sprites\\Area4_spr\\Area4_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0c1417ee-d36f-4fbb-9262-51261b44c6ae",
+            "Value": {
+                "id": "15cc83c6-c9cf-43f3-8d0e-0e7c1a6a409a",
+                "resourcePath": "objects\\obj_Debris1\\obj_Debris1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "0c63a767-0c67-4792-b24f-f6a5ef0bbe66",
+            "Value": {
+                "id": "e130f28c-1954-455c-896e-c7f4f43b43e4",
+                "resourcePath": "objects\\obj_Asteroid13\\obj_Asteroid13.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -60,6 +84,14 @@
                 "id": "66fa1120-efae-4531-b7f7-9809c1729258",
                 "resourcePath": "views\\0e39106c-db90-488c-844e-58bfb72b1602.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "0e61c33a-067a-437e-8647-166e90ad1450",
+            "Value": {
+                "id": "ca93521f-7d2d-43e7-8722-67ee401e73ea",
+                "resourcePath": "objects\\sat5_Challenge1\\sat5_Challenge1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -186,7 +218,7 @@
             "Key": "342b6458-f45b-486e-98b1-70a884cc26a4",
             "Value": {
                 "id": "64bc553e-2ea6-4b2a-9531-a3ecf069e38d",
-                "resourcePath": "rooms\\Sagitarrius\\Sagitarrius.yy",
+                "resourcePath": "rooms\\cons4_Sagitarrius\\cons4_Sagitarrius.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -194,7 +226,7 @@
             "Key": "37e715da-16d6-4125-9f08-2471f4251551",
             "Value": {
                 "id": "24409c0c-39b7-47a8-9d37-dd90c7e64472",
-                "resourcePath": "rooms\\Capricorn\\Capricorn.yy",
+                "resourcePath": "rooms\\cons3_Capricorn\\cons3_Capricorn.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -202,7 +234,7 @@
             "Key": "38d7c774-d59d-49e6-bb1d-d965c98d76da",
             "Value": {
                 "id": "89ebab24-4fbf-45a9-a586-8667d272f38b",
-                "resourcePath": "rooms\\Test1\\Test1.yy",
+                "resourcePath": "rooms\\cons0_Test1\\cons0_Test1.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -210,7 +242,7 @@
             "Key": "405a26de-75f6-488e-9a01-3d5f17deb75e",
             "Value": {
                 "id": "5f6a195c-9e3e-4a96-b8c0-6ddbd0ee3045",
-                "resourcePath": "rooms\\Libra\\Libra.yy",
+                "resourcePath": "rooms\\cons2_Libra\\cons2_Libra.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -282,7 +314,7 @@
             "Key": "593dacf4-5148-4fb0-9dcc-19c82c2ead10",
             "Value": {
                 "id": "d0f5acba-0fcc-4d9b-96b5-5bb8005b5f6a",
-                "resourcePath": "objects\\satelliteCapricorn\\satelliteCapricorn.yy",
+                "resourcePath": "objects\\sat3_Capricorn\\sat3_Capricorn.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -298,7 +330,7 @@
             "Key": "5ae0b587-c1b6-4357-a960-91d8a78bb9a2",
             "Value": {
                 "id": "b1f8941f-dcab-453d-b561-6198b77c0044",
-                "resourcePath": "objects\\satelliteSagittarius\\satelliteSagittarius.yy",
+                "resourcePath": "objects\\sat4_Sagittarius\\sat4_Sagittarius.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -383,6 +415,14 @@
             }
         },
         {
+            "Key": "75a10730-c35a-4842-853f-023e41123657",
+            "Value": {
+                "id": "0604984f-8cc6-4da8-aff2-be0ed89aeece",
+                "resourcePath": "sprites\\spr_Asteroid11\\spr_Asteroid11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "7ba42cb7-1fdc-47b4-b4e3-b7643c738e52",
             "Value": {
                 "id": "d505aa6e-e5d7-4cbc-a93d-aa88729e3ddb",
@@ -423,6 +463,14 @@
             }
         },
         {
+            "Key": "883d87d7-e2b9-4570-b85e-745b8bffa836",
+            "Value": {
+                "id": "7f84df33-cfc4-4583-9159-d42a8cecb1ed",
+                "resourcePath": "objects\\obj_Asteroid11\\obj_Asteroid11.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "92f10516-b698-4ede-9208-8336c97e25a3",
             "Value": {
                 "id": "881632dc-d770-44bd-ac1a-79c32d70eee3",
@@ -436,6 +484,14 @@
                 "id": "71107b7f-0049-40d8-8e55-1b33ac2ea578",
                 "resourcePath": "objects\\obj_Asteroid8\\obj_Asteroid8.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "9f1d5997-3262-487e-9af1-37ed39c52aa8",
+            "Value": {
+                "id": "ddf9be18-7e68-4599-94c1-42a0a19983f0",
+                "resourcePath": "sprites\\spr_Asteroid13\\spr_Asteroid13.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -498,7 +554,7 @@
             "Key": "b5037c18-deae-480b-904b-bf96f375ef1f",
             "Value": {
                 "id": "eb62bc12-104b-4db8-b37b-a952444fd0c6",
-                "resourcePath": "objects\\satelliteLibra\\satelliteLibra.yy",
+                "resourcePath": "objects\\sat2_Libra\\sat2_Libra.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -610,7 +666,7 @@
             "Key": "dcfc029c-a306-4539-9a34-946bba5136a0",
             "Value": {
                 "id": "b9dcb751-d709-423e-939c-7711fb55f5c8",
-                "resourcePath": "rooms\\Dipper\\Dipper.yy",
+                "resourcePath": "rooms\\cons1_Dipper\\cons1_Dipper.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -643,6 +699,14 @@
             "Value": {
                 "id": "d303a12e-d48d-42a0-8aeb-96987be8e2f5",
                 "resourcePath": "sprites\\Background_sprite\\Background_sprite.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "ea806b70-049d-44ec-a014-6a2c047c4fcd",
+            "Value": {
+                "id": "c194ee4c-eb90-4ead-9e91-150e712eb87f",
+                "resourcePath": "sprites\\spr_Debris1\\spr_Debris1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -682,7 +746,7 @@
             "Key": "f9a5988f-6278-434c-b631-7821f87c4221",
             "Value": {
                 "id": "6be441f2-3934-412c-8db1-0bca6baeca39",
-                "resourcePath": "objects\\satelliteDipper\\satelliteDipper.yy",
+                "resourcePath": "objects\\sat1_Dipper\\sat1_Dipper.yy",
                 "resourceType": "GMObject"
             }
         },
