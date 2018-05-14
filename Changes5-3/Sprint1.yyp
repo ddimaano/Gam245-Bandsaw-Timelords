@@ -623,7 +623,7 @@
                 "resourceCreationConfigs": [
                     "default"
                 ],
-                "resourcePath": "sprites\/sprite18\/sprite18.yy",
+                "resourcePath": "sprites\/paused\/paused.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -834,6 +834,25 @@
                 ],
                 "resourcePath": "sprites\/Player_sprite2\/Player_sprite2.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "89558f9b-af66-4692-a442-e5a1b529cda0",
+            "Value": {
+                "id": "4926906e-22a5-46c0-a140-324e9a9e498c",
+                "modelName": "GMResourceInfo",
+                "mvc": "1.0",
+                "configDeltaFiles": [
+                    
+                ],
+                "configDeltas": [
+                    
+                ],
+                "resourceCreationConfigs": [
+                    "default"
+                ],
+                "resourcePath": "objects\/Dylan_is_still_weird1\/Dylan_is_still_weird1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
