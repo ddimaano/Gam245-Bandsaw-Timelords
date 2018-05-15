@@ -495,6 +495,14 @@
             }
         },
         {
+            "Key": "8a396042-20e0-4fed-a9d6-81d5bc5896e7",
+            "Value": {
+                "id": "5599eb34-f197-45c6-923b-a4edf2f009cf",
+                "resourcePath": "paths\\circular_path\\circular_path.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "92f10516-b698-4ede-9208-8336c97e25a3",
             "Value": {
                 "id": "881632dc-d770-44bd-ac1a-79c32d70eee3",
@@ -587,6 +595,14 @@
             "Value": {
                 "id": "a9ffcc22-2c7d-40ee-8e8f-ef33d35808ac",
                 "resourcePath": "objects\\sat6_Challenge2\\sat6_Challenge2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b17e5336-80da-4c19-8e48-a522e2dead72",
+            "Value": {
+                "id": "b9d76bc6-5e65-44f1-b2f5-8f8f1b35eb05",
+                "resourcePath": "objects\\Red_Trail\\Red_Trail.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -804,6 +820,14 @@
                 "id": "6be441f2-3934-412c-8db1-0bca6baeca39",
                 "resourcePath": "objects\/sat1_Dipper\/sat1_Dipper.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "fa7ad2a5-c5e7-49b0-a35b-f970b461fe15",
+            "Value": {
+                "id": "57dc4ee2-e399-49cb-bc73-8b65e1328a90",
+                "resourcePath": "sprites\\Red_Trail_spr\\Red_Trail_spr.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
