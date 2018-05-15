@@ -543,6 +543,14 @@
             }
         },
         {
+            "Key": "b14868da-89c3-4168-8332-6f249583b873",
+            "Value": {
+                "id": "a9ffcc22-2c7d-40ee-8e8f-ef33d35808ac",
+                "resourcePath": "objects\\sat6_Challenge2\\sat6_Challenge2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "b4e6db67-4b92-47f9-84aa-3938fb399ae3",
             "Value": {
                 "id": "7334e429-1be8-47a6-b319-19f7507a8cb7",
@@ -620,6 +628,14 @@
                 "id": "1f19d125-8f13-4efa-ad00-972b89261a54",
                 "resourcePath": "views\\c31acdab-10ed-4823-a99b-4dbdeecef043.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c47bdc78-3cd8-4691-aa75-659196d246b3",
+            "Value": {
+                "id": "2b39e809-a6d7-4329-b4d5-b4fc8ef287c8",
+                "resourcePath": "rooms\\cons6_Challenge2\\cons6_Challenge2.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
