@@ -231,6 +231,14 @@
             }
         },
         {
+            "Key": "35041dfe-f1dd-4968-bf2b-6fe87114fc4a",
+            "Value": {
+                "id": "c0a337f0-0eef-413e-bba9-ef98eebc6742",
+                "resourcePath": "rooms\\cons5_Progression11\\cons5_Progression11.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
             "Key": "37e715da-16d6-4125-9f08-2471f4251551",
             "Value": {
                 "id": "24409c0c-39b7-47a8-9d37-dd90c7e64472",
@@ -271,6 +279,14 @@
             }
         },
         {
+            "Key": "43dfb997-7549-4ef7-8233-c15f988c5ade",
+            "Value": {
+                "id": "dc5938c0-ca8a-4bdf-b45f-283417a2330d",
+                "resourcePath": "sprites\\BluePlanet_spr\\BluePlanet_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "44fcf25f-3530-44ff-a3ee-3ea00870e6bd",
             "Value": {
                 "id": "8ba819c1-5a3f-43cc-9d90-34983bfd68dc",
@@ -287,10 +303,26 @@
             }
         },
         {
+            "Key": "479a193f-404a-47bd-b706-4c2098a19f8a",
+            "Value": {
+                "id": "e148f4f5-86c4-42e8-99b5-42d0fef1b94a",
+                "resourcePath": "objects\\greenPlanet_obj\\greenPlanet_obj.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4fc208ce-19f8-4ee2-ba75-7e56cc52376b",
             "Value": {
                 "id": "47dcd5bb-57e4-4644-b04f-628c6a711c4f",
                 "resourcePath": "objects\/Star_Object\/Star_Object.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "515b5b5f-3fc8-464b-97d5-4e0a2fb5ad9c",
+            "Value": {
+                "id": "58ec2658-7017-410c-9741-e8ed20677633",
+                "resourcePath": "objects\\bluePlanet_obj\\bluePlanet_obj.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -404,6 +436,14 @@
                 "id": "834bee13-eb98-4715-93ce-5fe921df94b3",
                 "resourcePath": "sprites\/BlueSatellite_spr\/BlueSatellite_spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6c43c9d1-662a-490d-95fb-fd0bd20a8a32",
+            "Value": {
+                "id": "0e9fb8b0-57e7-4b44-8d83-9a60101f040d",
+                "resourcePath": "views\\6c43c9d1-662a-490d-95fb-fd0bd20a8a32.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -623,11 +663,27 @@
             }
         },
         {
+            "Key": "b5377465-9b7b-4564-b8cd-dd5e4daf6450",
+            "Value": {
+                "id": "30f05cc4-cd2d-40eb-a4d5-9aa4024e0adc",
+                "resourcePath": "sprites\\GreenPlanet_spr\\GreenPlanet_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b699e3e7-0fe9-4d2c-bda2-617ed64c2f72",
             "Value": {
                 "id": "aed8c51a-fd2d-48e5-be60-90c11a0eb21e",
                 "resourcePath": "views\/b699e3e7-0fe9-4d2c-bda2-617ed64c2f72.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b9a60fac-c9ec-49df-964f-1d908f7f49a5",
+            "Value": {
+                "id": "78b69dda-b4da-4f86-804d-9b334bc097ef",
+                "resourcePath": "rooms\\cons5_Progression1\\cons5_Progression1.yy",
+                "resourceType": "GMRoom"
             }
         },
         {
@@ -691,6 +747,14 @@
             "Value": {
                 "id": "2b39e809-a6d7-4329-b4d5-b4fc8ef287c8",
                 "resourcePath": "rooms\\cons6_Challenge2\\cons6_Challenge2.yy",
+                "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cafb650b-ef3c-4e14-820c-643ee0a8051a",
+            "Value": {
+                "id": "e37272b1-67da-48bc-947f-9ddb381f6475",
+                "resourcePath": "rooms\\cons7_Progression3\\cons7_Progression3.yy",
                 "resourceType": "GMRoom"
             }
         },
