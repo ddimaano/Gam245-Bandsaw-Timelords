@@ -30,7 +30,7 @@ with(inst)
 }
 }
 else if trail = 2{
-	inst = instance_create_layer(x, y,  "Instances", Red_Trail);
+	inst = instance_create_layer(x, y,  "Instances", Blue_Trail);
 with(inst)
 {
 	//speed = Player_Object.speed;

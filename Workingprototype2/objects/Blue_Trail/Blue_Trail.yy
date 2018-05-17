@@ -2,7 +2,7 @@
     "id": "b17e5336-80da-4c19-8e48-a522e2dead72",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Red_Trail",
+    "name": "Blue_Trail",
     "eventList": [
         {
             "id": "83583d2e-a32d-470e-a159-6f5602bcd46a",
@@ -43,6 +43,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "fa7ad2a5-c5e7-49b0-a35b-f970b461fe15",
+    "spriteId": "f7a3cc7f-ce9b-4948-8530-996eda6037c0",
     "visible": true
 }
