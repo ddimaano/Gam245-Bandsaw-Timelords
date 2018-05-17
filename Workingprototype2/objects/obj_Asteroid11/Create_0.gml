@@ -1,8 +1,8 @@
-/// @DnDAction : YoYo Games.Paths.Start_Path
-/// @DnDVersion : 1.1
-/// @DnDHash : 4FD052AF
-/// @DnDArgument : "path" "circular_path"
-/// @DnDArgument : "atend" "path_action_continue"
-/// @DnDArgument : "relative" "true"
-/// @DnDSaveInfo : "path" "8a396042-20e0-4fed-a9d6-81d5bc5896e7"
-path_start(circular_path, 1, path_action_continue, true);
+/// @DnDAction : YoYo Games.Common.Execute_Code
+/// @DnDVersion : 1
+/// @DnDHash : 37672D7E
+/// @DnDArgument : "code" "if room = cons5_Progression11 {$(13_10)	path_start(circular_path, 1, path_action_continue, true);$(13_10)	path_position = 0;$(13_10)}"
+if room = cons5_Progression11 {
+	path_start(circular_path, 1, path_action_continue, true);
+	path_position = 0;
+}
