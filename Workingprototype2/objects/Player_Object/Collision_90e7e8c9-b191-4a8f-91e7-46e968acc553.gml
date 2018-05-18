@@ -1,7 +1,9 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 1C8F1E59
-/// @DnDArgument : "code" "Player_Object.image_angle = image_angle - 2*(Player_Object.direction-other.direction);$(13_10)if room != room0{$(13_10)	Star_Object.collision = false;$(13_10)	Variable_holder.counter = 0;$(13_10)}"
+/// @DnDArgument : "code" "audio_play_sound(Rebound_Green_Laser, 1, false);$(13_10)$(13_10)Player_Object.image_angle = image_angle - 2*(Player_Object.direction-other.direction);$(13_10)if room != room0{$(13_10)	Star_Object.collision = false;$(13_10)	Variable_holder.counter = 0;$(13_10)}"
+audio_play_sound(Rebound_Green_Laser, 1, false);
+
 Player_Object.image_angle = image_angle - 2*(Player_Object.direction-other.direction);
 if room != room0{
 	Star_Object.collision = false;

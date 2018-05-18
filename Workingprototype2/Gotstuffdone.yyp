@@ -239,6 +239,14 @@
             }
         },
         {
+            "Key": "36cfb22f-4d50-4410-a984-c5a31e0e2a47",
+            "Value": {
+                "id": "6f8c60bf-3eee-4439-ba51-5091d68d7088",
+                "resourcePath": "sounds\\Beacon_Pickup_2\\Beacon_Pickup_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "37e715da-16d6-4125-9f08-2471f4251551",
             "Value": {
                 "id": "24409c0c-39b7-47a8-9d37-dd90c7e64472",
@@ -308,6 +316,14 @@
                 "id": "e148f4f5-86c4-42e8-99b5-42d0fef1b94a",
                 "resourcePath": "objects\\greenPlanet_obj\\greenPlanet_obj.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4abf4c7d-27cf-4124-9fa3-0bc2f6df2f8e",
+            "Value": {
+                "id": "0311cf48-b340-4521-bf09-c3622f1697f2",
+                "resourcePath": "sounds\\Rebound_Green_Laser\\Rebound_Green_Laser.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -508,6 +524,14 @@
                 "id": "0d44a1f8-dcd2-43e2-89ee-369550d22949",
                 "resourcePath": "views\/7c60f4e7-b36c-4285-a84a-8df9042fecde.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "7edb8bb4-3306-4a7c-88bf-ce95f57931b6",
+            "Value": {
+                "id": "01aa6508-950a-4a7a-a881-dc9d501bb555",
+                "resourcePath": "sounds\\Asteroid_Hit\\Asteroid_Hit.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -804,6 +828,14 @@
                 "id": "b9dcb751-d709-423e-939c-7711fb55f5c8",
                 "resourcePath": "rooms\/cons1_Dipper\/cons1_Dipper.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "dff2284a-fbb2-425f-aca0-7a735f065b54",
+            "Value": {
+                "id": "3f4663ed-dfd9-48f6-a437-8794c90f1f6b",
+                "resourcePath": "sounds\\Menu_Up\\Menu_Up.yy",
+                "resourceType": "GMSound"
             }
         },
         {
