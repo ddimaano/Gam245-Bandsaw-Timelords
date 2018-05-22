@@ -10,3 +10,10 @@ if (!l3E1C17D3_0)
 }
 
 image_angle += 3;
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 33A78C16
+/// @DnDArgument : "soundid" "turn1"
+/// @DnDSaveInfo : "soundid" "025c232e-7001-46e1-bdcd-d50cd7944ebe"
+audio_play_sound(turn1, 0, 0);
