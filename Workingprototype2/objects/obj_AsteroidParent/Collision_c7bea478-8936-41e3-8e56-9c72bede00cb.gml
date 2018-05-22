@@ -1,3 +1,10 @@
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 49688237
+/// @DnDArgument : "soundid" "Asteroid_Hit_01"
+/// @DnDSaveInfo : "soundid" "e6d411a5-ffe5-4a2b-9c7b-fe6dccd3e967"
+audio_play_sound(Asteroid_Hit_01, 0, 0);
+
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 5DA6518C

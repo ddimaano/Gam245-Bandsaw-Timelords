@@ -47,6 +47,14 @@
             }
         },
         {
+            "Key": "05f6c307-7f0d-43e1-b68a-6154ae9c6d6e",
+            "Value": {
+                "id": "5486c1de-3856-4d49-ac3d-b9a6c7a66e70",
+                "resourcePath": "sprites\\Asteroid_256_Grey_1\\Asteroid_256_Grey_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0c1417ee-d36f-4fbb-9262-51261b44c6ae",
             "Value": {
                 "id": "15cc83c6-c9cf-43f3-8d0e-0e7c1a6a409a",
@@ -119,6 +127,14 @@
             }
         },
         {
+            "Key": "1c40e2af-ab48-4980-aea2-bcedb29dfd0c",
+            "Value": {
+                "id": "d6d72f96-17ce-4350-8f8b-77ce8b88a997",
+                "resourcePath": "views\\1c40e2af-ab48-4980-aea2-bcedb29dfd0c.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "20ce158a-9038-460a-9758-dca257ce09d4",
             "Value": {
                 "id": "fa4649fc-3d6b-4154-a48e-cfb4e14bfc8f",
@@ -148,6 +164,14 @@
                 "id": "88ed046c-b0be-4bbb-8ad7-62fe72be26ba",
                 "resourcePath": "sounds\/Level_Complete\/Level_Complete.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "26559350-bc83-4b89-95b2-03574b0389e8",
+            "Value": {
+                "id": "2b2b8a2c-f9b0-440c-802a-eb5736e57411",
+                "resourcePath": "sprites\\Asteroid_64_Grey_10\\Asteroid_64_Grey_10.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +263,14 @@
             }
         },
         {
+            "Key": "37a70d7a-679d-4115-b8f9-ce66d0317bd5",
+            "Value": {
+                "id": "5ec13133-7e68-4ab1-aafe-36d60488e518",
+                "resourcePath": "sprites\\Asteroid_128_Grey_5\\Asteroid_128_Grey_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "37e715da-16d6-4125-9f08-2471f4251551",
             "Value": {
                 "id": "24409c0c-39b7-47a8-9d37-dd90c7e64472",
@@ -252,6 +284,14 @@
                 "id": "89ebab24-4fbf-45a9-a586-8667d272f38b",
                 "resourcePath": "rooms\/cons0_Test1\/cons0_Test1.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "3c392af6-a437-4988-a81b-5a80edb52e28",
+            "Value": {
+                "id": "423ff2da-3f0d-447d-9ab3-93b76c88e0b5",
+                "resourcePath": "sprites\\Asteroid_128_Grey_6\\Asteroid_128_Grey_6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -311,6 +351,22 @@
             }
         },
         {
+            "Key": "49ac6ef3-fe69-4f8c-99e3-69df6faaa772",
+            "Value": {
+                "id": "afbd2047-c9c8-4dd5-8500-a22c44d5c8b2",
+                "resourcePath": "sprites\\Asteroid_256_Grey_4\\Asteroid_256_Grey_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "4fa045d6-a6e2-4706-bf0a-e9c4fe12eb63",
+            "Value": {
+                "id": "ae533277-2fd6-4aef-9ab7-a6cb71e1f279",
+                "resourcePath": "sprites\\Asteroid_64_Grey_6\\Asteroid_64_Grey_6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4fc208ce-19f8-4ee2-ba75-7e56cc52376b",
             "Value": {
                 "id": "47dcd5bb-57e4-4644-b04f-628c6a711c4f",
@@ -347,6 +403,14 @@
             "Value": {
                 "id": "caf66bd0-8017-4b24-b682-8a0481b90a88",
                 "resourcePath": "views\/53588124-35d7-4631-adfd-68a4b1006421.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "57ef764e-edfc-4dfb-86b6-a2c9164590c2",
+            "Value": {
+                "id": "b4f0fef6-a6ed-44ed-b37e-08cc8915bec8",
+                "resourcePath": "views\\57ef764e-edfc-4dfb-86b6-a2c9164590c2.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -431,10 +495,26 @@
             }
         },
         {
+            "Key": "68ebc151-6ef1-48e5-9904-99e25df2ce99",
+            "Value": {
+                "id": "60eee396-c07f-4f70-83c3-6506af342944",
+                "resourcePath": "views\\68ebc151-6ef1-48e5-9904-99e25df2ce99.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "6b2d35a6-a506-4264-948f-afb59c9c9d03",
             "Value": {
                 "id": "834bee13-eb98-4715-93ce-5fe921df94b3",
                 "resourcePath": "sprites\/BlueSatellite_spr\/BlueSatellite_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6bd5dcbd-86be-4ce4-bcbb-be1e712003b3",
+            "Value": {
+                "id": "ac98e968-d55e-42e5-95d9-9f540b2384f8",
+                "resourcePath": "sprites\\Asteroid_64_Grey_2\\Asteroid_64_Grey_2.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -519,6 +599,14 @@
             }
         },
         {
+            "Key": "853e17fd-e026-4fa3-9d29-5f9a37ce4f47",
+            "Value": {
+                "id": "aff02714-3b31-4e9e-a9b5-42174dd6c5cc",
+                "resourcePath": "sprites\\Asteroid_256_Grey_6\\Asteroid_256_Grey_6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "877b0298-d4c8-4b3f-b5a1-7df033bfad46",
             "Value": {
                 "id": "b87262a2-4f73-4436-bb67-386cab0c7f06",
@@ -543,6 +631,14 @@
             }
         },
         {
+            "Key": "90893f94-cda7-4815-8ec3-b4d0f7fab169",
+            "Value": {
+                "id": "78d8994d-c357-43c4-8cfb-12e6f3e918ff",
+                "resourcePath": "sprites\\Asteroid_64_Grey_4\\Asteroid_64_Grey_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "92f10516-b698-4ede-9208-8336c97e25a3",
             "Value": {
                 "id": "881632dc-d770-44bd-ac1a-79c32d70eee3",
@@ -559,6 +655,22 @@
             }
         },
         {
+            "Key": "9a5060c5-77af-484f-8879-ec7507a653db",
+            "Value": {
+                "id": "ca15aa32-96ff-4ff5-96ef-e8c3eaf8999d",
+                "resourcePath": "sprites\\Asteroid_256_Grey_2\\Asteroid_256_Grey_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9e192220-e3ae-498c-9069-b4cb56a92e68",
+            "Value": {
+                "id": "8a3586b2-7180-454d-9023-2790123a23a2",
+                "resourcePath": "sprites\\Asteroid_256_Grey_5\\Asteroid_256_Grey_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "9f1d5997-3262-487e-9af1-37ed39c52aa8",
             "Value": {
                 "id": "ddf9be18-7e68-4599-94c1-42a0a19983f0",
@@ -567,11 +679,27 @@
             }
         },
         {
+            "Key": "a129dbe4-ae24-45a8-9b71-3e2bbbe9945b",
+            "Value": {
+                "id": "70525ab4-6c1d-4cd5-a0ed-cf36bca1a7a7",
+                "resourcePath": "sounds\\Menu_Other\\Menu_Other.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "a1cb8bda-8f31-45c5-9100-9c966502b3a2",
             "Value": {
                 "id": "0999a71f-5603-43ce-a4f8-1b9552ebfbca",
                 "resourcePath": "objects\/Credits_Object\/Credits_Object.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "a213d8c6-2c1a-47aa-9605-03e8c2560386",
+            "Value": {
+                "id": "a806bbf2-c54f-4922-aea7-d2802a543d86",
+                "resourcePath": "sprites\\Asteroid_64_Grey_1\\Asteroid_64_Grey_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -599,10 +727,26 @@
             }
         },
         {
+            "Key": "a9df6008-bb51-4ec9-a7a7-2298c3da1239",
+            "Value": {
+                "id": "84cb1877-e71f-4faa-a211-3f32c7234265",
+                "resourcePath": "sprites\\Asteroid_64_Grey_3\\Asteroid_64_Grey_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ac27e3f6-9645-4b30-8a16-b9f9da77b7ed",
             "Value": {
                 "id": "28e92d44-476f-45be-aa00-edc6cb827b85",
                 "resourcePath": "sprites\/Green_Trail_spr\/Green_Trail_spr.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "acd8cc30-4a94-4d94-b5d9-97a243087ab7",
+            "Value": {
+                "id": "4541d2ca-8000-4ef2-b7fe-86b45952b05b",
+                "resourcePath": "sprites\\Asteroid_128_Grey_1\\Asteroid_128_Grey_1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -687,6 +831,14 @@
             }
         },
         {
+            "Key": "bae3f1c2-4bef-46d5-a17d-b2c8a2b12049",
+            "Value": {
+                "id": "2f62e6e7-44af-478e-b7bf-6f1d3b356ed3",
+                "resourcePath": "sprites\\Asteroid_128_Grey_3\\Asteroid_128_Grey_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bd6e425c-2d4e-4fd6-9c85-250c0d4f2410",
             "Value": {
                 "id": "23c0fc3f-eeb2-4e37-9c19-7ce637a577a7",
@@ -735,6 +887,14 @@
             }
         },
         {
+            "Key": "c2c2e6e8-ad0b-45a1-818a-dccb30498f24",
+            "Value": {
+                "id": "2a0f191c-4dbc-4cf6-a663-c7ceee31ee80",
+                "resourcePath": "sprites\\Asteroid_64_Grey_7\\Asteroid_64_Grey_7.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c31acdab-10ed-4823-a99b-4dbdeecef043",
             "Value": {
                 "id": "1f19d125-8f13-4efa-ad00-972b89261a54",
@@ -751,11 +911,43 @@
             }
         },
         {
+            "Key": "c55c2f3f-5217-4e53-9317-4a8f4ccb9847",
+            "Value": {
+                "id": "b2ac0f0e-a630-4c88-be62-016eba357a66",
+                "resourcePath": "views\\c55c2f3f-5217-4e53-9317-4a8f4ccb9847.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c5a5e810-383c-4fee-a1de-0c18a7cb5348",
+            "Value": {
+                "id": "112a1d1f-8157-41e0-ac3d-fbb624432828",
+                "resourcePath": "views\\c5a5e810-383c-4fee-a1de-0c18a7cb5348.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c6f52532-413d-476f-96e4-1564c815c78d",
+            "Value": {
+                "id": "9b2db1b7-56c6-475c-8071-6bea8f711455",
+                "resourcePath": "sprites\\Asteroid_64_Grey_5\\Asteroid_64_Grey_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cafb650b-ef3c-4e14-820c-643ee0a8051a",
             "Value": {
                 "id": "e37272b1-67da-48bc-947f-9ddb381f6475",
                 "resourcePath": "rooms\\cons7_Progression3\\cons7_Progression3.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "cc7dc50d-405e-4080-ac5d-db6e52ad0420",
+            "Value": {
+                "id": "07fcdcf3-2ecc-4ff1-ba58-62327374589c",
+                "resourcePath": "sprites\\Asteroid_64_Grey_9\\Asteroid_64_Grey_9.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -775,6 +967,14 @@
             }
         },
         {
+            "Key": "cfa0d589-7a72-4419-91ad-a813ca0ec5c0",
+            "Value": {
+                "id": "af4dfcfd-2f21-4b9c-ae46-ba51cab0926d",
+                "resourcePath": "sounds\\Beacon_Pickup\\Beacon_Pickup.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "d5376dc1-c258-4f80-9ddd-2cd1b823c094",
             "Value": {
                 "id": "950cfd0a-3c98-40f8-baeb-74cf8a58485e",
@@ -791,11 +991,27 @@
             }
         },
         {
+            "Key": "d9d776a4-4e49-40b2-8546-4dbaaf14486d",
+            "Value": {
+                "id": "3af36a50-2b6c-418c-bf26-15f1b2a4e8cc",
+                "resourcePath": "sprites\\Asteroid_128_Grey_2\\Asteroid_128_Grey_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d9f4f1f1-f450-4f18-8f93-7699c459f318",
             "Value": {
                 "id": "be57c6fc-14de-455e-89f4-60274ff7944f",
                 "resourcePath": "objects\/Player_Object\/Player_Object.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "db461e45-fe61-4d66-855f-be42b5e63e3b",
+            "Value": {
+                "id": "01fff6d5-ff01-4da9-bea1-cc2e079e1e57",
+                "resourcePath": "sprites\\Asteroid_128_Grey_4\\Asteroid_128_Grey_4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -807,11 +1023,27 @@
             }
         },
         {
+            "Key": "dfed2d5b-23b8-4223-b264-3630f7d82b00",
+            "Value": {
+                "id": "170dfdd7-fbe2-4f26-9b33-ac11e5754204",
+                "resourcePath": "sprites\\Asteroid_64_Grey_8\\Asteroid_64_Grey_8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "e1e35590-2aaf-4b55-a88e-0b2e137fa589",
             "Value": {
                 "id": "4ff710cb-88dd-4bbb-9647-9d6339ea24b8",
                 "resourcePath": "views\/e1e35590-2aaf-4b55-a88e-0b2e137fa589.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e3467e48-39a1-4174-8924-498496207b21",
+            "Value": {
+                "id": "f836e0d4-102a-4a3a-8b3f-4a3a726466b6",
+                "resourcePath": "sprites\\Asteroid_256_Grey_3\\Asteroid_256_Grey_3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -828,6 +1060,14 @@
                 "id": "9758792f-57f4-4397-8b3d-a97582fffa82",
                 "resourcePath": "views\/e691ca10-af6b-4e92-a39e-c0391b850d28.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e6d411a5-ffe5-4a2b-9c7b-fe6dccd3e967",
+            "Value": {
+                "id": "41a6b6e1-4ce2-405e-88a6-e443bfad2788",
+                "resourcePath": "sounds\\Asteroid_Hit_01\\Asteroid_Hit_01.yy",
+                "resourceType": "GMSound"
             }
         },
         {

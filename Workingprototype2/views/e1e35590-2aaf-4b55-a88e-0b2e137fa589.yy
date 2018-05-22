@@ -7,7 +7,8 @@
         "0dea8001-ed02-4fcc-8e1a-d31e6acbcffc",
         "75a10730-c35a-4842-853f-023e41123657",
         "9f1d5997-3262-487e-9af1-37ed39c52aa8",
-        "ea806b70-049d-44ec-a014-6a2c047c4fcd"
+        "ea806b70-049d-44ec-a014-6a2c047c4fcd",
+        "c5a5e810-383c-4fee-a1de-0c18a7cb5348"
     ],
     "filterType": "GMSprite",
     "folderName": "Asteroids",
