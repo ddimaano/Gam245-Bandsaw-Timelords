@@ -13,9 +13,3 @@ if room != room0{
 /// @DnDHash : 7B71EE94
 /// @DnDApplyTo : 6f9f739f-c70e-4835-8690-52edaa0848df
 with(Green_Trail) instance_destroy();
-
-/// @DnDAction : YoYo Games.Instances.Destroy_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 1E39028D
-/// @DnDApplyTo : b17e5336-80da-4c19-8e48-a522e2dead72
-with(Blue_Trail) instance_destroy();

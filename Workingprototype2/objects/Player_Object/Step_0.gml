@@ -20,7 +20,7 @@ with(inst)
 
 
 }
-	else if trail = 1{
+	else{
 		inst = instance_create_layer(x, y,  "Instances", Green_Trail);
 with(inst)
 {
@@ -29,19 +29,12 @@ with(inst)
 	image_angle = Player_Object.image_angle;
 }
 }
-else if trail = 2{
-	inst = instance_create_layer(x, y,  "Instances", Blue_Trail);
-with(inst)
-{
-	//speed = Player_Object.speed;
-	direction = Player_Object.direction - 180;
-	image_angle = Player_Object.image_angle;
-}	
 }
 Player_Object.speed -= .05;
 }
 else{
 	speed = 0;
+}
 
-}
-}
+
+
