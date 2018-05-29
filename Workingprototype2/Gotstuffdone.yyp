@@ -690,7 +690,7 @@
             "Key": "6f9f739f-c70e-4835-8690-52edaa0848df",
             "Value": {
                 "id": "22838f16-e482-4b14-b18b-263c3d18fa73",
-                "resourcePath": "objects\/Green_Trail\/Green_Trail.yy",
+                "resourcePath": "objects\\Yellow_Trail\\Yellow_Trail.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -946,7 +946,7 @@
             "Key": "ac27e3f6-9645-4b30-8a16-b9f9da77b7ed",
             "Value": {
                 "id": "28e92d44-476f-45be-aa00-edc6cb827b85",
-                "resourcePath": "sprites\/Green_Trail_spr\/Green_Trail_spr.yy",
+                "resourcePath": "sprites\\Yellow_Trail_spr\\Yellow_Trail_spr.yy",
                 "resourceType": "GMSprite"
             }
         },

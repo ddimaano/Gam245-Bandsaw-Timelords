@@ -2,7 +2,7 @@
     "id": "6f9f739f-c70e-4835-8690-52edaa0848df",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "Green_Trail",
+    "name": "Yellow_Trail",
     "eventList": [
         {
             "id": "09331301-205d-4d26-9013-18050d987fec",
