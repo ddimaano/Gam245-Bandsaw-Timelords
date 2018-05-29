@@ -1,4 +1,4 @@
-
+speed = clamp(speed,0,10);
 //Current working use for trail
 
 //test using different sprites based on direction
@@ -45,3 +45,20 @@ else{
 
 }
 }
+
+x=clamp(x, 0, room_width);
+y=clamp(y, 0, room_height);
+
+if keyboard_check(vk_shift) 
+speed += 1;
+
+
+
+
+
+	
+
+
+
+
+

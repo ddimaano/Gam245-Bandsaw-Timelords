@@ -150,7 +150,7 @@
             "m_serialiseFrozen": false,
             "modelName": "GMRBackgroundLayer",
             "mvc": "1.0",
-            "spriteId": "ddd94da0-19c0-4737-971c-c337c5799a97",
+            "spriteId": "a31928e1-e143-45d9-a462-c175fc942d75",
             "stretch": true,
             "userdefined_animFPS": false,
             "userdefined_depth": false,
@@ -175,12 +175,12 @@
     },
     "roomSettings":     {
         "id": "f8cca9c0-791f-44fe-b7f7-4b0adb71db55",
-        "Height": 1080,
+        "Height": 4000,
         "inheritRoomSettings": false,
         "modelName": "GMRoomSettings",
         "persistent": false,
         "mvc": "1.0",
-        "Width": 1920
+        "Width": 4000
     },
     "mvc": "1.0",
     "views": [
