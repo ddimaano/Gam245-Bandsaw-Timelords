@@ -8,6 +8,12 @@ if room != room0{
 	Variable_holder.counter = 0;
 }
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0C7C5F7B
+/// @DnDArgument : "soundid" "Rebound_Yellow_Laser"
+audio_play_sound(Rebound_Yellow_Laser, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 7B71EE94
