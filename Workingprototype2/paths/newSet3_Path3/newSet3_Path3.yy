@@ -3,7 +3,7 @@
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "newSet3_Path3",
-    "closed": false,
+    "closed": true,
     "hsnap": 0,
     "kind": 1,
     "points": [
@@ -11,8 +11,8 @@
             "id": "bc334d6d-95c0-4502-84f0-10a45cef0eaa",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1056,
-            "y": 544,
+            "x": 984,
+            "y": 505,
             "speed": 100
         },
         {

@@ -439,6 +439,14 @@
             }
         },
         {
+            "Key": "4814d5ed-8ff7-405d-9a59-55a51fb849b8",
+            "Value": {
+                "id": "ba4546aa-7a80-4b91-80d8-62dd35183ee0",
+                "resourcePath": "objects\\obj_AsteroidMover1\\obj_AsteroidMover1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "48208c77-b7b8-4835-a9f7-e2f37bfb18bc",
             "Value": {
                 "id": "c3eaf6f8-33ae-48fd-8163-301e3dd7ccc8",
@@ -642,7 +650,7 @@
             "Key": "6a6fced9-f8a0-43fe-be30-2e760cc02730",
             "Value": {
                 "id": "569264f2-3dd1-44f5-8b70-e0e372851f79",
-                "resourcePath": "rooms\\cons9_newSet4\\cons9_newSet4.yy",
+                "resourcePath": "rooms\\cons11_newSet4\\cons11_newSet4.yy",
                 "resourceType": "GMRoom"
             }
         },
@@ -1010,7 +1018,7 @@
             "Key": "b3cd0789-1e72-4377-aa92-e1ca3e87b296",
             "Value": {
                 "id": "b4ec2afd-4008-44f9-9f13-537525ba374c",
-                "resourcePath": "rooms\\cons9_newSet3\\cons9_newSet3.yy",
+                "resourcePath": "rooms\\cons10_newSet3\\cons10_newSet3.yy",
                 "resourceType": "GMRoom"
             }
         },

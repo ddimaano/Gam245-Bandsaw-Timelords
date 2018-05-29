@@ -3,7 +3,7 @@
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "newSet1_Path1",
-    "closed": false,
+    "closed": true,
     "hsnap": 0,
     "kind": 1,
     "points": [
@@ -11,8 +11,8 @@
             "id": "fafe99e4-4a8c-48e4-998b-dbfb47636268",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 608,
-            "y": 832,
+            "x": 726,
+            "y": 886,
             "speed": 100
         },
         {
@@ -99,24 +99,24 @@
             "id": "b09b442e-9a74-4b32-adbf-be5dad7d125d",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 352,
-            "y": 544,
+            "x": 371,
+            "y": 547,
             "speed": 100
         },
         {
             "id": "2bf22c1a-a6e7-4dd4-886c-711d3c73ecee",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 384,
-            "y": 672,
+            "x": 400,
+            "y": 693,
             "speed": 100
         },
         {
             "id": "60a14545-cae0-4bf0-8dbb-f52d7df94455",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 608,
-            "y": 832,
+            "x": 557,
+            "y": 821,
             "speed": 100
         }
     ],

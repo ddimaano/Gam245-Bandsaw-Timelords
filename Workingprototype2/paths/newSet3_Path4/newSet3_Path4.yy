@@ -3,7 +3,7 @@
     "modelName": "GMPath",
     "mvc": "1.0",
     "name": "newSet3_Path4",
-    "closed": false,
+    "closed": true,
     "hsnap": 0,
     "kind": 1,
     "points": [
@@ -11,8 +11,8 @@
             "id": "c894c58e-47af-4063-9c62-d2bfae1e98c1",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1216,
-            "y": 0,
+            "x": 1233,
+            "y": 82,
             "speed": 100
         },
         {
@@ -123,8 +123,8 @@
             "id": "88ffee6c-82fc-41c3-8204-6dbf3b01b383",
             "modelName": "GMPathPoint",
             "mvc": "1.0",
-            "x": 1216,
-            "y": 0,
+            "x": 1198,
+            "y": -21,
             "speed": 100
         }
     ],
