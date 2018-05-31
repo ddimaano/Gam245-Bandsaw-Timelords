@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "272d8320-7b87-4370-a27f-01ca7f77828b",
+            "Value": {
+                "id": "dab587e2-6b44-431a-9bf4-502d2ed805c0",
+                "resourcePath": "objects\\obj_AsteroidMover\\obj_AsteroidMover.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "2789018e-c7f0-45de-a302-ed84e1ffe831",
             "Value": {
                 "id": "b141d431-1ec2-4d1a-aff3-d5ffeacbdddc",
