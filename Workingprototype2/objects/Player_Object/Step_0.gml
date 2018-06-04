@@ -49,9 +49,9 @@ else{
 x=clamp(x, 0, room_width);
 y=clamp(y, 0, room_height);
 
-if keyboard_check(vk_shift) 
+if keyboard_check(vk_shift){
 speed += 1;
-
+}
 
 
 
