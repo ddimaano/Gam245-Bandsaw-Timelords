@@ -1,6 +1,6 @@
 
 {
-    "name": "cons12_newSet5",
+    "name": "Level4",
     "id": "54ee8a53-359c-40eb-aedb-9532d186d642",
     "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
@@ -14,7 +14,6 @@
         "7bf73a62-0518-4847-a733-2d0f6b0f05ba",
         "c3e11388-93fc-4bc0-9187-53663859a78d",
         "bba66043-7547-4cf6-9509-f646982ca479",
-        "b3cf7ccd-4aa1-436b-a2f2-eace6eade1e2",
         "8f278d63-df17-4171-be24-1ceb882bd789",
         "d27d24e2-9be9-4a89-af71-14575c678e21",
         "82c7aaf0-61be-4d2d-ab47-3c115ee82293",
@@ -137,7 +136,6 @@
 {"name": "inst_745BCDBF","id": "7bf73a62-0518-4847-a733-2d0f6b0f05ba","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": true,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_745BCDBF","objId": "4fc208ce-19f8-4ee2-ba75-7e56cc52376b","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 736,"y": 384},
 {"name": "inst_3D9C677F","id": "c3e11388-93fc-4bc0-9187-53663859a78d","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_3D9C677F","objId": "75e341ae-9c94-4f5b-9a86-ac9596c07d81","properties": null,"rotation": 141.7619,"scaleX": 0.875,"scaleY": 0.875,"mvc": "1.0","x": 617,"y": 186},
 {"name": "inst_299A06A6","id": "bba66043-7547-4cf6-9509-f646982ca479","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_299A06A6","objId": "f558a2d5-bb6c-4657-956f-1214259719ab","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 64,"y": 32},
-{"name": "inst_63872CA","id": "b3cf7ccd-4aa1-436b-a2f2-eace6eade1e2","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_63872CA","objId": "bf70506f-1c4a-4fa7-8ef8-592e1d1efb1d","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 32,"y": 64},
 {"name": "inst_9A0AF00","id": "8f278d63-df17-4171-be24-1ceb882bd789","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_9A0AF00","objId": "10961be9-282a-4311-88fa-996a2347c0aa","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 32,"y": 32},
 {"name": "inst_C625899","id": "d27d24e2-9be9-4a89-af71-14575c678e21","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_C625899","objId": "75e341ae-9c94-4f5b-9a86-ac9596c07d81","properties": null,"rotation": 106.6587,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 896,"y": 1152},
 {"name": "inst_44FF4FA0","id": "82c7aaf0-61be-4d2d-ab47-3c115ee82293","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": true,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_44FF4FA0","objId": "f2f1f043-ebb3-43da-a084-c67242244a8b","properties": null,"rotation": 74.65218,"scaleX": 1.25,"scaleY": 1.25,"mvc": "1.0","x": 632,"y": 1073},
