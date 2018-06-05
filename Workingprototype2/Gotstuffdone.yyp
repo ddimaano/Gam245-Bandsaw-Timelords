@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "14e08e83-aeed-4c0f-9a23-197d4d1de318",
+            "Value": {
+                "id": "a02bb6bc-4a00-4528-8e99-f3744fee8deb",
+                "resourcePath": "sounds\\Red_Trail_PassThrough\\Red_Trail_PassThrough.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "194156dd-5711-4b7a-b2b8-38bc7b570f5c",
             "Value": {
                 "id": "a312241a-df13-4b7a-9ab1-85b696b3dbc9",
@@ -324,6 +332,14 @@
                 "id": "6947f35f-6386-48b2-852e-78eb0f22f828",
                 "resourcePath": "rooms\/Menu\/Menu.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "2b53f154-dc4c-4090-bb5f-8ea7ad15ecc5",
+            "Value": {
+                "id": "a440819e-eb0d-4983-89ec-08d26e4442c7",
+                "resourcePath": "sounds\\Beacon_Pickup_2\\Beacon_Pickup_2.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -1159,6 +1175,14 @@
             }
         },
         {
+            "Key": "ad9c2c5c-42e7-4185-b1f4-13e4dd108942",
+            "Value": {
+                "id": "f553b611-f8b1-4d93-a576-068c351673af",
+                "resourcePath": "views\\ad9c2c5c-42e7-4185-b1f4-13e4dd108942.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "adae9636-5687-43ad-9181-fa231df74ef9",
             "Value": {
                 "id": "5cd44928-34c3-417d-adf9-b0fd9600fcb8",
@@ -1571,14 +1595,6 @@
             "Value": {
                 "id": "f836e0d4-102a-4a3a-8b3f-4a3a726466b6",
                 "resourcePath": "sprites\/Asteroid_256_Grey_3\/Asteroid_256_Grey_3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e35b2b5b-42d0-4b8b-8761-b0a164a4c1bb",
-            "Value": {
-                "id": "d7baf7a1-9dfb-408e-8780-2b9243772845",
-                "resourcePath": "sprites\/Space_Background\/Space_Background.yy",
                 "resourceType": "GMSprite"
             }
         },

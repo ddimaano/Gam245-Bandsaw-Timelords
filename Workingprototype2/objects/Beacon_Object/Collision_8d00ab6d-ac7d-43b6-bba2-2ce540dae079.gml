@@ -13,6 +13,13 @@ GameStart.Starscore += 1;
 instance_create_layer(random(4000), random(4000), "Instances", Beacon_Object);
 instance_create_layer(random(4000), random(4000), "Instances", Beacon_Object);
 
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 2978B558
+/// @DnDArgument : "soundid" "Beacon_Pickup_2"
+/// @DnDSaveInfo : "soundid" "2b53f154-dc4c-4090-bb5f-8ea7ad15ecc5"
+audio_play_sound(Beacon_Pickup_2, 0, 0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 2844F71A
