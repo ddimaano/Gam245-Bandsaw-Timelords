@@ -1671,14 +1671,6 @@
             }
         },
         {
-            "Key": "d44f1fd3-daea-4a60-9673-fa52027840e3",
-            "Value": {
-                "id": "ccd8f92d-d782-4496-af6f-760662d9ad1a",
-                "resourcePath": "sprites\\Space_Background___3\\Space_Background___3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "d5376dc1-c258-4f80-9ddd-2cd1b823c094",
             "Value": {
                 "id": "950cfd0a-3c98-40f8-baeb-74cf8a58485e",
