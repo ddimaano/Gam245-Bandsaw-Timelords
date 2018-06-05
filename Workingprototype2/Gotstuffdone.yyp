@@ -903,6 +903,14 @@
             }
         },
         {
+            "Key": "70888ab4-3f48-4f83-85ce-699caf88ff25",
+            "Value": {
+                "id": "87803c8a-4111-4497-8ebf-719e77ef5a24",
+                "resourcePath": "sounds\\Warp_Portal\\Warp_Portal.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "7137f8dc-e962-4876-ab6a-70e5deb21aa8",
             "Value": {
                 "id": "e759e962-f0c1-4714-9ec1-42f2f0963aed",
