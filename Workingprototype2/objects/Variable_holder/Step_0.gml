@@ -1,7 +1,7 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 0E346600
-/// @DnDArgument : "code" "if(directory_exists(working_directory+"\Screenshots") = false){//directory hasn't been created$(13_10)	directory_create(working_directory+"\Screenshots");$(13_10)}$(13_10)if counter = 20{$(13_10)	//puzzle is complete$(13_10)	//take screenshot$(13_10)	//check room$(13_10)	room_goto(room0);//go back to main room$(13_10)	//play audio$(13_10)	//play level complete$(13_10)	audio_play_sound(Level_Complete, 1, false);	$(13_10)}"
+/// @DnDArgument : "code" "if(directory_exists(working_directory+"\Screenshots") = false){//directory hasn't been created$(13_10)	directory_create(working_directory+"\Screenshots");$(13_10)}$(13_10)if counter = 20{$(13_10)	//puzzle is complete$(13_10)	//take screenshot$(13_10)	//check room$(13_10)	room_goto(room0);//go back to main room$(13_10)	//play audio$(13_10)	//play level complete$(13_10)	audio_play_sound(Level_Complete, 1, false);	$(13_10)	counter = 0;$(13_10)}"
 if(directory_exists(working_directory+"\Screenshots") = false){//directory hasn't been created
 	directory_create(working_directory+"\Screenshots");
 }
@@ -13,4 +13,5 @@ if counter = 20{
 	//play audio
 	//play level complete
 	audio_play_sound(Level_Complete, 1, false);	
+	counter = 0;
 }

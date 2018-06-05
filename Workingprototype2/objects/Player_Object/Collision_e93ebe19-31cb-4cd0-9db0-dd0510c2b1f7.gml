@@ -9,3 +9,10 @@ if Player_Object.trail = 1{
 else{
 	instance_destroy();
 }
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 591AEDE3
+/// @DnDArgument : "soundid" "Rebound_Yellow_Laser"
+/// @DnDSaveInfo : "soundid" "7e7a5afd-4175-4f81-bea7-f75e0982e710"
+audio_play_sound(Rebound_Yellow_Laser, 0, 0);
