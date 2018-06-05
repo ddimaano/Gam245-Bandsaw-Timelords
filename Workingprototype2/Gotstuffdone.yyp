@@ -87,14 +87,6 @@
             }
         },
         {
-            "Key": "0925ecf4-93b9-492f-9eaf-bf402021c038",
-            "Value": {
-                "id": "69652945-e252-4fa0-81b4-17706570a6c0",
-                "resourcePath": "sprites\\Star_Background_7\\Star_Background_7.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0b222db4-a2ff-4533-83b0-69eb624cf2f0",
             "Value": {
                 "id": "2b2c08dd-9f47-4654-8ab5-950f34bed50b",
@@ -154,7 +146,7 @@
             "Key": "0e61c33a-067a-437e-8647-166e90ad1450",
             "Value": {
                 "id": "ca93521f-7d2d-43e7-8722-67ee401e73ea",
-                "resourcePath": "objects\/sat5_Challenge1\/sat5_Challenge1.yy",
+                "resourcePath": "objects\\sat3_Level3\\sat3_Level3.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -183,11 +175,11 @@
             }
         },
         {
-            "Key": "14e08e83-aeed-4c0f-9a23-197d4d1de318",
+            "Key": "15306787-fabe-4544-a355-ddbc58f9995d",
             "Value": {
-                "id": "a02bb6bc-4a00-4528-8e99-f3744fee8deb",
-                "resourcePath": "sounds\\Red_Trail_PassThrough\\Red_Trail_PassThrough.yy",
-                "resourceType": "GMSound"
+                "id": "24f19204-7506-42a8-a075-aaab5f594761",
+                "resourcePath": "objects\\sat6_Level6\\sat6_Level6.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -351,6 +343,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "2ac36e07-c0d9-4929-a154-7d1f46bfff15",
             "Value": {
                 "id": "512c8f2d-1aed-4078-bfc7-91a4ba260d0b",
@@ -367,6 +360,8 @@
             }
         },
         {
+=======
+>>>>>>> 9cd7b29f10c91e205be01e413f58b9bfbba4a927
             "Key": "2b63a3a3-12c3-4ea2-a6f6-1469ad2d2455",
             "Value": {
                 "id": "1a33c3da-e522-4df9-b77a-536dc839017f",
@@ -434,7 +429,7 @@
             "Key": "34aaef3b-afb9-49be-97b6-e45a35e69d1f",
             "Value": {
                 "id": "37ac9d22-3444-42b3-afff-5e0c74987f3f",
-                "resourcePath": "objects\/obj_WormHoleNOTWORKING\/obj_WormHoleNOTWORKING.yy",
+                "resourcePath": "objects\\obj_WormHole1\\obj_WormHole1.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -495,14 +490,6 @@
             }
         },
         {
-            "Key": "3cf87ec6-83a5-4923-8ada-be1ed7dca14b",
-            "Value": {
-                "id": "fa1221fc-df54-4971-adf7-cc0f3c1c0397",
-                "resourcePath": "sprites\\Star_Background_8\\Star_Background_8.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "3ee7c374-cf1a-438e-b3e4-7099ccdfa745",
             "Value": {
                 "id": "0b5efadf-8670-4594-baf8-608a8c1ceb3f",
@@ -551,22 +538,6 @@
             }
         },
         {
-            "Key": "449c0723-2819-42aa-9126-84be9badb15b",
-            "Value": {
-                "id": "379c3db7-b649-42fa-bad6-637c580c58b6",
-                "resourcePath": "sprites\\Star_Background_6\\Star_Background_6.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "44b9eab7-48ef-4768-ab93-28504e53522f",
-            "Value": {
-                "id": "73f18c70-3872-45d5-8b9f-a76704e27205",
-                "resourcePath": "sprites\\Star_Background_9\\Star_Background_9.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "44fcf25f-3530-44ff-a3ee-3ea00870e6bd",
             "Value": {
                 "id": "8ba819c1-5a3f-43cc-9d90-34983bfd68dc",
@@ -580,14 +551,6 @@
                 "id": "b66aa731-04eb-49f0-83a2-7585694110f7",
                 "resourcePath": "views\/dcfc029c-a306-4539-9a34-946bba5136a0-room.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "467181e3-6afc-43ea-8b17-f37832c6771b",
-            "Value": {
-                "id": "05bf6622-3507-4d89-9525-8c956af004c4",
-                "resourcePath": "sprites\\Star_Background_11\\Star_Background_11.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -628,6 +591,14 @@
                 "id": "e1d3e839-200f-456e-80d7-7e6f1af4f71b",
                 "resourcePath": "sounds\/Media7\/Media7.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4dca974e-49da-4d1b-81a5-83d1970e48d5",
+            "Value": {
+                "id": "a561a2eb-4538-4665-b95a-8afb427319ae",
+                "resourcePath": "objects\\obj_WormHole2\\obj_WormHole2.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -706,11 +677,12 @@
             "Key": "593dacf4-5148-4fb0-9dcc-19c82c2ead10",
             "Value": {
                 "id": "d0f5acba-0fcc-4d9b-96b5-5bb8005b5f6a",
-                "resourcePath": "objects\/sat3_Capricorn\/sat3_Capricorn.yy",
+                "resourcePath": "objects\\sat1_Capricorn\\sat1_Capricorn.yy",
                 "resourceType": "GMObject"
             }
         },
         {
+<<<<<<< HEAD
             "Key": "59b900cb-ca29-48ca-b2fd-48f0dfabd536",
             "Value": {
                 "id": "6f4467a7-6560-433d-a243-271f5e70745c",
@@ -727,6 +699,8 @@
             }
         },
         {
+=======
+>>>>>>> 9cd7b29f10c91e205be01e413f58b9bfbba4a927
             "Key": "5a3b5850-ecd5-4b19-a4bd-bc8354b63fbd",
             "Value": {
                 "id": "7e0f4360-5748-4b4d-a366-79a14948f8cf",
@@ -738,7 +712,7 @@
             "Key": "5ae0b587-c1b6-4357-a960-91d8a78bb9a2",
             "Value": {
                 "id": "b1f8941f-dcab-453d-b561-6198b77c0044",
-                "resourcePath": "objects\/sat4_Sagittarius\/sat4_Sagittarius.yy",
+                "resourcePath": "objects\\sat2_Level2\\sat2_Level2.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -759,6 +733,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "5cf7de03-5b4b-4691-9c36-63521873070f",
             "Value": {
                 "id": "cfcec716-44c2-4bb5-bcaa-34f2ec1c7fbe",
@@ -775,6 +750,8 @@
             }
         },
         {
+=======
+>>>>>>> 9cd7b29f10c91e205be01e413f58b9bfbba4a927
             "Key": "6012dbd9-8fcd-476d-be17-50a77131c910",
             "Value": {
                 "id": "d3361af4-961d-438f-9af7-3f9a993a7ba6",
@@ -818,7 +795,7 @@
             "Key": "64c98988-348c-4e58-b752-26edcdce603f",
             "Value": {
                 "id": "3cf5118f-adbe-48c4-8491-b92d44eef292",
-                "resourcePath": "objects\/sat7_Challenge3\/sat7_Challenge3.yy",
+                "resourcePath": "objects\\sat5_Level5\\sat5_Level5.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1159,14 +1136,6 @@
             }
         },
         {
-            "Key": "92e0b0d8-1413-4dab-b75f-ea323975cc3d",
-            "Value": {
-                "id": "0bf78abe-442b-45c6-91b6-c1c319ad0b19",
-                "resourcePath": "sprites\\Star_Background_2\\Star_Background_2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "950d475c-39a1-412e-91ea-28025840a919",
             "Value": {
                 "id": "0a0df3b7-bdc6-4714-8390-976ef1a40171",
@@ -1211,14 +1180,6 @@
             "Value": {
                 "id": "ca15aa32-96ff-4ff5-96ef-e8c3eaf8999d",
                 "resourcePath": "sprites\/Asteroid_256_Grey_2\/Asteroid_256_Grey_2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "9ae683c9-3d2f-44e9-a0fb-4aebefc7a1ee",
-            "Value": {
-                "id": "0f6fe65d-7253-4286-b0e9-96874ab5d6d7",
-                "resourcePath": "sprites\\Star_Background_12\\Star_Background_12.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1335,14 +1296,6 @@
             }
         },
         {
-            "Key": "ad9c2c5c-42e7-4185-b1f4-13e4dd108942",
-            "Value": {
-                "id": "f553b611-f8b1-4d93-a576-068c351673af",
-                "resourcePath": "views\\ad9c2c5c-42e7-4185-b1f4-13e4dd108942.yy",
-                "resourceType": "GMFolder"
-            }
-        },
-        {
             "Key": "adae9636-5687-43ad-9181-fa231df74ef9",
             "Value": {
                 "id": "5cd44928-34c3-417d-adf9-b0fd9600fcb8",
@@ -1359,14 +1312,6 @@
             }
         },
         {
-            "Key": "afe8761e-be0b-4600-a510-9551bb129e4d",
-            "Value": {
-                "id": "490bfe1e-2629-4149-9979-681fb095fc66",
-                "resourcePath": "sprites\\Star_Background_5\\Star_Background_5.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "b042c2b6-8d21-4986-b31d-d095777c5de6",
             "Value": {
                 "id": "ae2aff8b-f4bc-41fa-8e6f-1a372c87c7ba",
@@ -1378,7 +1323,7 @@
             "Key": "b14868da-89c3-4168-8332-6f249583b873",
             "Value": {
                 "id": "a9ffcc22-2c7d-40ee-8e8f-ef33d35808ac",
-                "resourcePath": "objects\/sat6_Challenge2\/sat6_Challenge2.yy",
+                "resourcePath": "objects\\sat4_Level4\\sat4_Level4.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -1543,6 +1488,14 @@
             }
         },
         {
+            "Key": "c4007de3-924d-462e-b922-1d978cc73bef",
+            "Value": {
+                "id": "08432fd5-421c-4584-b4c7-0660696b5a8f",
+                "resourcePath": "objects\\sat7_Level7\\sat7_Level7.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c47bdc78-3cd8-4691-aa75-659196d246b3",
             "Value": {
                 "id": "2b39e809-a6d7-4329-b4d5-b4fc8ef287c8",
@@ -1591,6 +1544,7 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "c7f25445-40ce-4e59-87e5-ae59a214f6c5",
             "Value": {
                 "id": "bb6931a6-2df6-4b2a-ae9c-859a8ad1564d",
@@ -1615,6 +1569,8 @@
             }
         },
         {
+=======
+>>>>>>> 9cd7b29f10c91e205be01e413f58b9bfbba4a927
             "Key": "cafb650b-ef3c-4e14-820c-643ee0a8051a",
             "Value": {
                 "id": "e37272b1-67da-48bc-947f-9ddb381f6475",
@@ -1668,14 +1624,6 @@
                 "id": "af069f27-b72c-4fe3-a176-cca577d03c1a",
                 "resourcePath": "paths\/newSet2_Path1\/newSet2_Path1.yy",
                 "resourceType": "GMPath"
-            }
-        },
-        {
-            "Key": "d44f1fd3-daea-4a60-9673-fa52027840e3",
-            "Value": {
-                "id": "ccd8f92d-d782-4496-af6f-760662d9ad1a",
-                "resourcePath": "sprites\\Space_Background___3\\Space_Background___3.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -1795,6 +1743,14 @@
             "Value": {
                 "id": "f836e0d4-102a-4a3a-8b3f-4a3a726466b6",
                 "resourcePath": "sprites\/Asteroid_256_Grey_3\/Asteroid_256_Grey_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e35b2b5b-42d0-4b8b-8761-b0a164a4c1bb",
+            "Value": {
+                "id": "d7baf7a1-9dfb-408e-8780-2b9243772845",
+                "resourcePath": "sprites\/Space_Background\/Space_Background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -2012,6 +1968,14 @@
                 "id": "8abc67ae-2de7-4459-80f1-d3e3709e44dd",
                 "resourcePath": "sprites\/Menu_Spr\/Menu_Spr.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "fedaacd7-e8ad-458a-aa6b-d771b9317380",
+            "Value": {
+                "id": "4c4e9602-60e6-489e-a1cc-41ed80943394",
+                "resourcePath": "views\\fedaacd7-e8ad-458a-aa6b-d771b9317380.yy",
+                "resourceType": "GMFolder"
             }
         },
         {

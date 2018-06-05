@@ -1,4 +1,4 @@
-if room = cons8_newSet1 {
+/*if room = cons8_newSet1 {
 	path_start(newSet1_Path1, 1, path_action_continue, true);
 	path_position = .04;
 }
