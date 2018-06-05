@@ -12,3 +12,10 @@ instance_create_layer(random(4000), random(4000), "Instances", sat1_Capricorn);
 /// @DnDVersion : 1
 /// @DnDHash : 2844F71A
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 0E38D895
+/// @DnDArgument : "soundid" "Beacon_Pickup_2"
+/// @DnDSaveInfo : "soundid" "9426860a-12e4-47ea-9c97-9fac0e7d2bc7"
+audio_play_sound(Beacon_Pickup_2, 0, 0);

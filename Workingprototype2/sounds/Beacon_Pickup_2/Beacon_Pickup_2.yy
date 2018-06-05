@@ -1,5 +1,5 @@
 {
-    "id": "2b53f154-dc4c-4090-bb5f-8ea7ad15ecc5",
+    "id": "9426860a-12e4-47ea-9c97-9fac0e7d2bc7",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "Beacon_Pickup_2",

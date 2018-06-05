@@ -1,5 +1,5 @@
 {
-    "id": "14e08e83-aeed-4c0f-9a23-197d4d1de318",
+    "id": "636dd6c3-fb27-477b-a386-e3fbb2ceebf1",
     "modelName": "GMSound",
     "mvc": "1.0",
     "name": "Red_Trail_PassThrough",
@@ -10,5 +10,5 @@
     "preload": false,
     "sampleRate": 44100,
     "type": 0,
-    "volume": 0.5
+    "volume": 0.24
 }

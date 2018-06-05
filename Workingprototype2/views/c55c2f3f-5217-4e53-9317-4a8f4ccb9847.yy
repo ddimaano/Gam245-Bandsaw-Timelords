@@ -10,8 +10,11 @@
         "6b2d35a6-a506-4264-948f-afb59c9c9d03",
         "950d475c-39a1-412e-91ea-28025840a919",
         "f898ce5d-28d3-4b80-abba-530a42ceae26",
-        "a54ce786-0a8c-40a3-b0e1-7bfb6644dfa8",
-        "77d98f62-e6da-4f73-ae87-94c05e4a0d1d"
+        "bb1c3f4c-c19f-4174-adb0-bfed54c1895f",
+        "dd742815-2d60-4758-9bd4-da31cde51e37",
+        "95fb999b-acdc-447d-9a56-6a5477bfd3dd",
+        "4dbccc6e-1906-442c-a75f-f018615aab76",
+        "89dfe76f-ce1c-4bb4-b1b9-36cbd1397ab3"
     ],
     "filterType": "GMSprite",
     "folderName": "Satellites",

@@ -87,6 +87,14 @@
             }
         },
         {
+            "Key": "088573e1-380f-47f3-adc2-760f8f767c85",
+            "Value": {
+                "id": "301187c7-5bc7-4787-92e6-1f4d99bfd89b",
+                "resourcePath": "views\\088573e1-380f-47f3-adc2-760f8f767c85.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "0b222db4-a2ff-4533-83b0-69eb624cf2f0",
             "Value": {
                 "id": "2b2c08dd-9f47-4654-8ab5-950f34bed50b",
@@ -167,6 +175,14 @@
             }
         },
         {
+            "Key": "12443b08-1a0e-4983-b295-0f95c473aba0",
+            "Value": {
+                "id": "4836df05-95f8-4350-9cec-1c425099bea8",
+                "resourcePath": "sprites\\Star_Background_1\\Star_Background_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "13c9ea26-ad9c-4277-aa0e-e42733937258",
             "Value": {
                 "id": "afba13ef-601a-471d-bd46-a024768791fc",
@@ -180,6 +196,14 @@
                 "id": "24f19204-7506-42a8-a075-aaab5f594761",
                 "resourcePath": "objects\\sat6_Level6\\sat6_Level6.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "16a6296b-4f55-4984-8177-8a163e3facef",
+            "Value": {
+                "id": "58992f0d-f18b-4c83-bdbb-ad6d6f3d1cd4",
+                "resourcePath": "views\\16a6296b-4f55-4984-8177-8a163e3facef.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -348,6 +372,14 @@
                 "id": "5a9a0598-fff8-4677-b205-c708ddc373c2",
                 "resourcePath": "fonts\/fnt_credits\/fnt_credits.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "306c83a0-2702-480d-a18f-123dde1bedb1",
+            "Value": {
+                "id": "cdf03603-de4a-4de5-9dbc-17a0b42640ab",
+                "resourcePath": "sprites\\Star_Background_10\\Star_Background_10.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -551,11 +583,27 @@
             }
         },
         {
+            "Key": "4b091da4-38e9-434e-8feb-0de74a135865",
+            "Value": {
+                "id": "86405bfa-2aa7-4b6f-811d-e47080086142",
+                "resourcePath": "sprites\\Star_Background_5\\Star_Background_5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4c072499-bc48-4c23-bba0-c83b7db89c7a",
             "Value": {
                 "id": "e1d3e839-200f-456e-80d7-7e6f1af4f71b",
                 "resourcePath": "sounds\/Media7\/Media7.yy",
                 "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4dbccc6e-1906-442c-a75f-f018615aab76",
+            "Value": {
+                "id": "0f4ec13a-b23b-41b8-b0e9-2a23978cd3f6",
+                "resourcePath": "sprites\\Sat4\\Sat4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -703,6 +751,14 @@
             }
         },
         {
+            "Key": "636dd6c3-fb27-477b-a386-e3fbb2ceebf1",
+            "Value": {
+                "id": "cf18caf3-539b-4548-9975-6eb51b6e794d",
+                "resourcePath": "sounds\\Red_Trail_PassThrough\\Red_Trail_PassThrough.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "64296869-6714-4682-87db-e04bc67adeac",
             "Value": {
                 "id": "3eaacf01-4151-4a5c-a422-794771d30d2c",
@@ -740,6 +796,14 @@
                 "id": "6e507792-50ba-45c7-9b26-fb25dbbfbd2d",
                 "resourcePath": "rooms\\Level5\\Level5.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "66b2eae2-318c-47a3-bfee-78a60fa7e1b8",
+            "Value": {
+                "id": "926f7341-6c21-4a87-bb61-35cea0c00c42",
+                "resourcePath": "sprites\\Star_Background_6\\Star_Background_6.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -807,6 +871,14 @@
             }
         },
         {
+            "Key": "6e144eb1-a0b5-4385-adcc-fe1b14d85361",
+            "Value": {
+                "id": "bd961d83-d142-41d9-8a23-9a7d21607055",
+                "resourcePath": "sprites\\Star_Background_9\\Star_Background_9.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6f9ace3b-c39d-4432-9935-2e8a668db0f6",
             "Value": {
                 "id": "e2f59f78-3795-481f-8cd5-268878973a91",
@@ -871,14 +943,6 @@
             }
         },
         {
-            "Key": "77d98f62-e6da-4f73-ae87-94c05e4a0d1d",
-            "Value": {
-                "id": "313105e7-8535-4344-9b6c-b0c0454c04a0",
-                "resourcePath": "sprites\/Satellite_4\/Satellite_4.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "787a0d6d-7137-45d3-be3f-6e3649e2707e",
             "Value": {
                 "id": "d77223a9-75ff-4572-90ab-25d824de97d9",
@@ -892,6 +956,14 @@
                 "id": "27579590-0a7c-4c01-a1d3-aa18b24f0462",
                 "resourcePath": "objects\/sat11_Extra\/sat11_Extra.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7a73aded-df15-4863-bafd-8013d9952515",
+            "Value": {
+                "id": "9ee4b28f-3cfd-4701-b2ab-718acc8f5a88",
+                "resourcePath": "sprites\\Star_Background_7\\Star_Background_7.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -959,6 +1031,14 @@
             }
         },
         {
+            "Key": "89dfe76f-ce1c-4bb4-b1b9-36cbd1397ab3",
+            "Value": {
+                "id": "4a3d5103-51af-4530-982b-4bf7b874adb9",
+                "resourcePath": "sprites\\Sat5\\Sat5.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "89faba2d-51fb-437c-8804-a833b42b1340",
             "Value": {
                 "id": "dd7c4b4b-47be-48f9-b166-32cfcbc1a9b4",
@@ -980,6 +1060,22 @@
                 "id": "8c08ff9f-ef80-44f4-a0ce-9ade2c322510",
                 "resourcePath": "rooms\/AudioLogRoom\/AudioLogRoom.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "8bc2455a-6dc8-4225-9973-1e000124df90",
+            "Value": {
+                "id": "b665f57e-a590-4c88-a5bc-3ae8a47d134c",
+                "resourcePath": "sprites\\Star_Background_3\\Star_Background_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8bef2497-bbf4-4925-aaeb-44427e89d4f9",
+            "Value": {
+                "id": "d043e65e-2a92-4f6f-b77b-065f4a06e6ec",
+                "resourcePath": "sprites\\Star_Background_8\\Star_Background_8.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1023,10 +1119,34 @@
             }
         },
         {
+            "Key": "9426860a-12e4-47ea-9c97-9fac0e7d2bc7",
+            "Value": {
+                "id": "6ce7ac00-cebd-48d0-a3d5-93389b960b6d",
+                "resourcePath": "sounds\\Beacon_Pickup_2\\Beacon_Pickup_2.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
             "Key": "950d475c-39a1-412e-91ea-28025840a919",
             "Value": {
                 "id": "0a0df3b7-bdc6-4714-8390-976ef1a40171",
                 "resourcePath": "sprites\/Satellite_1\/Satellite_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "95fb999b-acdc-447d-9a56-6a5477bfd3dd",
+            "Value": {
+                "id": "276479ad-2cf5-47ff-a702-bf0bc3eaeab1",
+                "resourcePath": "sprites\\Sat3\\Sat3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "9797297e-9c7b-4940-856e-692c3c8a6f54",
+            "Value": {
+                "id": "17283758-d81a-43d9-ac3f-aeb0234db3a5",
+                "resourcePath": "sprites\\Star_Background_4\\Star_Background_4.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1111,22 +1231,6 @@
             }
         },
         {
-            "Key": "a31928e1-e143-45d9-a462-c175fc942d75",
-            "Value": {
-                "id": "c79c2bc9-c9fb-4767-91fc-f1739e9c7e78",
-                "resourcePath": "sprites\/Space_Background_2\/Space_Background_2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "a54ce786-0a8c-40a3-b0e1-7bfb6644dfa8",
-            "Value": {
-                "id": "e158e4cd-e505-43d4-b493-1d7437a1ed0e",
-                "resourcePath": "sprites\/Satellite_3\/Satellite_3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "a7f6d0b4-9c79-4bf4-9182-4866a30e7fad",
             "Value": {
                 "id": "66d3c7d5-5cbd-4362-a234-7315b599922e",
@@ -1172,6 +1276,14 @@
                 "id": "201fbbe7-8d9d-4944-902f-c04ec31cec84",
                 "resourcePath": "fonts\/fnt_options\/fnt_options.yy",
                 "resourceType": "GMFont"
+            }
+        },
+        {
+            "Key": "ada06d3f-15de-4a54-8405-4592cd807303",
+            "Value": {
+                "id": "d2819c39-33bd-48bd-9020-4d8095bf4aa6",
+                "resourcePath": "sprites\\Star_Background_12\\Star_Background_12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -1271,6 +1383,14 @@
             }
         },
         {
+            "Key": "b8baf035-01e1-4a5b-83ee-9e16f9d84e1d",
+            "Value": {
+                "id": "0eb8e4ed-e41a-4123-9898-675ef9db983f",
+                "resourcePath": "sprites\\Star_Background_11\\Star_Background_11.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b9a60fac-c9ec-49df-964f-1d908f7f49a5",
             "Value": {
                 "id": "78b69dda-b4da-4f86-804d-9b334bc097ef",
@@ -1283,6 +1403,14 @@
             "Value": {
                 "id": "2f62e6e7-44af-478e-b7bf-6f1d3b356ed3",
                 "resourcePath": "sprites\/Asteroid_128_Grey_3\/Asteroid_128_Grey_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "bb1c3f4c-c19f-4174-adb0-bfed54c1895f",
+            "Value": {
+                "id": "29709650-6a3c-463a-b718-4f50af8b4652",
+                "resourcePath": "sprites\\Sat1\\Sat1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1551,6 +1679,22 @@
             }
         },
         {
+            "Key": "dd742815-2d60-4758-9bd4-da31cde51e37",
+            "Value": {
+                "id": "bcf7588e-891e-405b-bae6-75d2e0d89424",
+                "resourcePath": "sprites\\Sat2\\Sat2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "dda47516-371a-4ad2-a189-70aa17fe2d7a",
+            "Value": {
+                "id": "9a3fa21f-3f9f-41e8-9858-4cc38deda278",
+                "resourcePath": "sprites\\Star_Background_2\\Star_Background_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "ddd94da0-19c0-4737-971c-c337c5799a97",
             "Value": {
                 "id": "c60e1925-6f7d-4acc-9400-4ee5c41b91f6",
@@ -1595,14 +1739,6 @@
             "Value": {
                 "id": "f836e0d4-102a-4a3a-8b3f-4a3a726466b6",
                 "resourcePath": "sprites\/Asteroid_256_Grey_3\/Asteroid_256_Grey_3.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "e35b2b5b-42d0-4b8b-8761-b0a164a4c1bb",
-            "Value": {
-                "id": "d7baf7a1-9dfb-408e-8780-2b9243772845",
-                "resourcePath": "sprites\/Space_Background\/Space_Background.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -1724,6 +1860,14 @@
                 "id": "78aadf80-f0fb-4b47-915f-2e63b511bed4",
                 "resourcePath": "options\/mac\/options_mac.yy",
                 "resourceType": "GMMacOptions"
+            }
+        },
+        {
+            "Key": "f5554006-ea6d-48e5-830e-5b0c94d11b51",
+            "Value": {
+                "id": "9cbf86a2-e3e2-4b7c-b180-f595a0cae169",
+                "resourcePath": "sprites\\Space_Background___3\\Space_Background___3.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

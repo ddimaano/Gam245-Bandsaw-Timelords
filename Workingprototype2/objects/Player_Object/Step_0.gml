@@ -41,8 +41,8 @@ with(inst)
 Player_Object.speed -= .05;
 }
 }
-x=clamp(x, 0, room_width);
-y=clamp(y, 0, room_height);
+x=clamp(x, 35, room_width - 35);
+y=clamp(y, 35, room_height - 35);
 
 if keyboard_check(vk_shift){
 speed += 1;
