@@ -1639,6 +1639,14 @@
             }
         },
         {
+            "Key": "d6c1e7ff-0e22-4c32-880f-08035954ed71",
+            "Value": {
+                "id": "c19dec0f-9808-46f8-ab63-286ffaa92416",
+                "resourcePath": "objects\\Room_Fade\\Room_Fade.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "d9d776a4-4e49-40b2-8546-4dbaaf14486d",
             "Value": {
                 "id": "3af36a50-2b6c-418c-bf26-15f1b2a4e8cc",
